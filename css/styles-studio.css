@@ -156,6 +156,9 @@ img {
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
+  /*display: flex;
+  flex-direction: column;
+  align-items: center;*/
   /*padding-left: 15px;
   padding-right: 15px;
   width: 1200px;
@@ -176,8 +179,8 @@ img {
 }
 
 .order-btn {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
+  /*font-family: "Roboto", sans-serif;
+  font-style: normal;*/
   font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
